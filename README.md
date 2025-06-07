@@ -3,4 +3,4 @@
 
 
 
-we used a frist person game starter kit to start for ui
+we used a first person game starter kit to start for ui
